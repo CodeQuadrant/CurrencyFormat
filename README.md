@@ -7,4 +7,4 @@ Currencies that can support all currencies listed at [here](https://www.currency
 
 Javascript is also used to convert to number before submit for easy use when combining with SQL or PL/SQL functions.
 
-## Download [here] (https://github.com/CodeQuadrant/CurrencyFormat/blob/master/item_type_plugin_currencyformat.sql)
+## Download [here](https://github.com/CodeQuadrant/CurrencyFormat/blob/master/item_type_plugin_currencyformat.sql)
