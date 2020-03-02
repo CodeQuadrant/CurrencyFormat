@@ -9,7 +9,13 @@ Javascript is also used to convert to number before submit for easy use when com
 
 ## Download [here](https://github.com/CodeQuadrant/CurrencyFormat/blob/master/item_type_plugin_currencyformat.sql)
 
+Demo - English
 
+![Demo - English](CurrencyFormat/demo.gif)
+
+Demo - German
+
+![Demo - German](CurrencyFormat/demo_ger.gif)
 
 ### Instructions
 
