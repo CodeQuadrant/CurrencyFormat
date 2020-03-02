@@ -11,7 +11,7 @@ Javascript is also used to convert to number before submit for easy use when com
 
 Demo - English
 
-![Demo - English](demo.gif)
+![Demo - English](preview.gif)
 
 Demo - German
 
