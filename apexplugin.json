@@ -1,0 +1,33 @@
+{
+  "name" : "CurrenyFormat",
+  "version" : "1.0",
+  "description" : "No longer worry about which grouping and decimal separtors your app will need. This plugin uses the browser language to determine the appropriate symbols and format accordingly.",
+  "keywords" : ["currency", "currencies", "money", "number", "item", "javascript"],
+  "homepage" : "https://github.com/CodeQuadrant/CurrencyFormat",
+  "bugs" : {
+    "url" : "https://github.com/CodeQuadrant/CurrencyFormat/issues",
+    "email" : "codequadrant@gmail.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Tim Schmuhl",
+    "email" : "codequadrant@gmail.com",
+    "url" : "https://github.com/CodeQuadrant"
+   },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/CodeQuadrant/CurrencyFormat"
+  },
+  "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["19.1.0"],
+      "plugin" : {
+        "internalName" : "CURRENCYFORMAT",
+        "type" : "item",
+        "demo" : "https://ne4nrdstetiauoz-db201912071546.adb.us-phoenix-1.oraclecloudapps.com/ords/f?p=108",
+        "previewImage" : "demo.gif"
+      }
+    }
+  }
+}
