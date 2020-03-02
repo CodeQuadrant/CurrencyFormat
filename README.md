@@ -7,7 +7,7 @@ Currencies codes that are supported are listed [here](https://www.currency-iso.o
 
 Javascript is also used to convert to number before submit for easy use when combining with SQL or PL/SQL functions.
 
-## Download [here](https://github.com/CodeQuadrant/CurrencyFormat/blob/master/item_type_plugin_currencyformat.sql)
+## [Demo Application](https://ne4nrdstetiauoz-db201912071546.adb.us-phoenix-1.oraclecloudapps.com/ords/f?p=108)
 
 Demo - English
 
