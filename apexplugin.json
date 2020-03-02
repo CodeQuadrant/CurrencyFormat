@@ -1,5 +1,5 @@
 {
-  "name" : "CurrenyFormat",
+  "name" : "CurrencyFormat",
   "version" : "1.0",
   "description" : "No longer worry about which grouping and decimal separtors your app will need. This plugin uses the browser language to determine the appropriate symbols and format accordingly.",
   "keywords" : ["currency", "currencies", "money", "number", "item", "javascript"],
