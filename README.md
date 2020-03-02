@@ -11,11 +11,11 @@ Javascript is also used to convert to number before submit for easy use when com
 
 Demo - English
 
-![Demo - English](CurrencyFormat/demo.gif)
+![Demo - English](demo.gif)
 
 Demo - German
 
-![Demo - German](CurrencyFormat/demo_ger.gif)
+![Demo - German](demo_ger.gif)
 
 ### Instructions
 
