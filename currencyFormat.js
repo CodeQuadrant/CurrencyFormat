@@ -38,7 +38,7 @@ function runFormat(p_value, p_code){
 
     var currencyString = apex.item(p_value).getValue(); //Get value of whatever is in the currency field
 
-    var currencyNumber = currencyString.replace(/\D/g,''); //format string value to take out any non-numeric characters. Still is a string but without any letters/symbols
+    var currencyNumber = currencyString.replace(/[^-\d*[0-9]/g,''); //format string value to take out any non-numeric characters excluding negative sign.
 
     if(currencyNumber == ''){
         currencyNumber='0';
