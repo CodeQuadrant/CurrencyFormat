@@ -4,6 +4,7 @@ APEX Plugin providing live, as you type, formatting of currencies.
 No longer worry about which grouping and decimal separtors your app will need. This plugin uses the browser language to determine the appropriate symbols and format accordingly.
 
 Currencies codes that are available to be used are listed [here](https://www.currency-iso.org/en/home/tables/table-a1.html)
+  
   -Download the .xls to see the codes. These 3 letter codes are needed for step 2 in the installation instructions below
 
 Javascript is also used to convert to number before submit for easy use when combining with SQL or PL/SQL functions.
