@@ -22,3 +22,6 @@ Demo - German
 1.  Download and install plugin
 2.  Create new select list or radio button item with currency codes you wish to support
 3.  Link the item you created in step 2 to the currencyFormat plugin item 
+
+
+![Demo - Install](demo_install.gif)
